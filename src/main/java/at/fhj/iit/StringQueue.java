@@ -50,13 +50,11 @@ public class StringQueue implements IQueue {
 
   @Override
   public String peek() {
-    String element;
-    if (elements.size() > 0)
-      element = elements.get(0);
-    else
-      element = null;
-
-    return element;
+    if (elements.size() > 0) {
+      return elements.get(0);
+    } else {
+      return null;
+    }
   }
 
   @Override
