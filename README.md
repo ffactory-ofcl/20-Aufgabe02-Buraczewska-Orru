@@ -22,7 +22,7 @@
   - [ ] test
   - [ ] compile
   - [ ] site
-- [ ] Drei Fehler finden und korrigieren
+- [x] Drei Fehler finden und korrigieren
 - [ ] Generic-Version implementieren
 - [ ] Sourcecode dokumentieren
 - [ ] JavaDoc für Generic-Version schreiben
