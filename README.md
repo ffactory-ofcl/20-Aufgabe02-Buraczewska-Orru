@@ -11,7 +11,9 @@
 - [x] Erste Aufgaben planen
 - [ ] pom.xml anpassen
   - [ ] Information über Entwickler mit Bild
-  - [ ] Adresse des Git-Repositories
+    - [x] Filippo Orru
+    - [ ] Diana Buraczewska
+  - [x] Adresse des Git-Repositories
 
 ### Implementierung
 - [ ] Targets ohne Warnung ausführen
