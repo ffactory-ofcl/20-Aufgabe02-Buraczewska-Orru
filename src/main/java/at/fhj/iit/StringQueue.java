@@ -29,13 +29,13 @@ public class StringQueue implements IQueue {
 
   @Override
   public String poll() {
-    String element = peek();
-
-    if (elements.size() == 0) {
+    if (elements.size() > 0) {
+      String element = peek();
       elements.remove(0);
+      return element;
+    } else {
+      return null;
     }
-
-    return element;
   }
 
   @Override
