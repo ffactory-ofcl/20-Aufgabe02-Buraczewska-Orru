@@ -25,7 +25,7 @@
 - [x] Drei Fehler finden und korrigieren
 - [x] Generic-Version implementieren
 - [x] Sourcecode dokumentieren
-- [ ] JavaDoc für String-Version anpassen
+- [x] JavaDoc für String-Version anpassen
 - [x] JavaDoc für Generic-Version schreiben
 
 ### Testen
