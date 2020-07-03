@@ -17,20 +17,21 @@
 
 ### Implementierung
 - [ ] Targets ohne Warnung ausführen
-  - [ ] clean
-  - [ ] validate
-  - [ ] test
-  - [ ] compile
+  - [x] clean
+  - [x] validate
+  - [x] test
+  - [x] compile
   - [ ] site
 - [x] Drei Fehler finden und korrigieren
-- [ ] Generic-Version implementieren
-- [ ] Sourcecode dokumentieren
-- [ ] JavaDoc für Generic-Version schreiben
+- [x] Generic-Version implementieren
+- [x] Sourcecode dokumentieren
+- [ ] JavaDoc für String-Version anpassen
+- [x] JavaDoc für Generic-Version schreiben
 
 ### Testen
 - [ ] 100%ige Testabdeckung
   - [ ] StringQueue
-  - [ ] Generic-Queue mit Strings
+  - [x] Generic-Queue mit Strings
   - [ ] Generic-Queue mit weiterer Klasse
   - [ ] JavaDoc Beschreibung
 
