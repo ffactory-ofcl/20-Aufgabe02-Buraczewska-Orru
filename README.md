@@ -36,7 +36,7 @@
 
 ### Lab-Report
 Es müssen nicht alle Punkte vorkommen.
-- [ ] Wasbeinhaltet Build Automatisierung?
+- [ ] Was beinhaltet Build Automatisierung?
 - [ ] Warum sollten Tests automatisiertwerden?
 - [ ] Wie sieht eine Standard-Projektstruktur aus und warum ist diese wichtig?
 - [ ] Wozu dient technische Dokumentation?
