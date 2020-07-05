@@ -26,3 +26,5 @@ public class GenericQueue<T> {
 As can be seen here, the queue is defined with a T in angle brackets (`< >`) that is reused in the `offer` method further down. This ensures that, when creating a queue with a type parameter (for example `String`), that same type will be required wherever it is used later in the code.
 
 In this case, calling the `offer` method of a `GenericQueue<String>` (say: generic queue of string) requires a `String` to be passed as the first parameter (`T obj` becomes `String obj`).
+
+Filippo Orru, 2020

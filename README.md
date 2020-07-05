@@ -53,3 +53,5 @@ Es müssen nicht alle Punkte vorkommen.
   - [x] Mögliche Einsatzgebiete einer Queue \[optional\]
   - [x] Was sind Generics \[optional\]
   - [ ] Was ist code coverage bei Source Code Tests \[optional\]
+
+Filippo Orru, 2020
