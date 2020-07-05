@@ -16,12 +16,12 @@
   - [x] Adresse des Git-Repositories
 
 ### Implementierung
-- [ ] Targets ohne Warnung ausführen
+- [x] Targets ohne Warnung ausführen
   - [x] clean
   - [x] validate
   - [x] test
   - [x] compile
-  - [ ] site
+  - [x] site
 - [x] Drei Fehler finden und korrigieren
 - [x] Generic-Version implementieren
 - [x] Sourcecode dokumentieren
@@ -30,7 +30,7 @@
 - [ ] Im JavaDoc genau erklären, wie getestet wird
 
 ### Testen
-- [ ] 100%ige Testabdeckung
+- [x] 100%ige Testabdeckung
   - [x] StringQueue
   - [x] Generic-Queue mit Strings
   - [x] Generic-Queue mit weiterer Klasse
@@ -39,7 +39,7 @@
 ### Lab-Report
 Es müssen nicht alle Punkte vorkommen.
 - [ ] Was beinhaltet Build Automatisierung?
-- [ ] Warum sollten Tests automatisiertwerden?
+- [ ] Warum sollten Tests automatisiert werden?
 - [ ] Wie sieht eine Standard-Projektstruktur aus und warum ist diese wichtig?
 - [ ] Wozu dient technische Dokumentation?
 - [ ] Was sollte ein Software Entwicklungsprojekt mindestens beinhalten, dass entweder neue EntwicklerInnen starten können oder selbst nach mehreren Wochen / Monaten wieder einsteigen kann?
