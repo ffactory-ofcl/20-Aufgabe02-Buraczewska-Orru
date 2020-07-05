@@ -4,6 +4,7 @@
         <menu name="Overview">
             <item name="Home" href="index.html"/>
             <item name="What is a Queue" href="what_is_a_queue.html"/>
+            <item name="What are Generics" href="what_are_generics.html"/>
         </menu>
         <menu ref="reports"/>
     </body>

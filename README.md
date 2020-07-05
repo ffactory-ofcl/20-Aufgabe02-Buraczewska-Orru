@@ -49,7 +49,7 @@ Es müssen nicht alle Punkte vorkommen.
 - [x] JavaDoc Kommentare
 - [ ] Manuell erstellte Inhalte
   - [x] Was ist eine Queue
-  - [ ] Code-snippets oder Grafiken
+  - [x] Code-snippets oder Grafiken
   - [x] Mögliche Einsatzgebiete einer Queue \[optional\]
-  - [ ] Was sind Generics \[optional\]
+  - [x] Was sind Generics \[optional\]
   - [ ] Was ist code coverage bei Source Code Tests \[optional\]
