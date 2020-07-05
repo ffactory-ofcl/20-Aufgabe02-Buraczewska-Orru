@@ -27,6 +27,7 @@
 - [x] Sourcecode dokumentieren
 - [x] JavaDoc für String-Version anpassen
 - [x] JavaDoc für Generic-Version schreiben
+- [ ] Im JavaDoc genau erklären, wie getestet wird
 
 ### Testen
 - [ ] 100%ige Testabdeckung
@@ -45,7 +46,7 @@ Es müssen nicht alle Punkte vorkommen.
 - [ ] Welche Schritte muss ein/e Entwickler/In an einem durchschnittlichen Arbeitstag sinnvollerweise durchlaufen? Listen Sie stichwortartig diese Schritte auf und notieren Sie notwendige Befehle der jeweiligen Technologien auf
 
 ### MavenSite
-- [ ] JavaDoc Kommentare
+- [x] JavaDoc Kommentare
 - [ ] Manuell erstellte Inhalte
   - [ ] Was ist eine Queue
   - [ ] Code-snippets oder Grafiken
