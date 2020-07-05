@@ -47,11 +47,11 @@ Es müssen nicht alle Punkte vorkommen.
 
 ### MavenSite
 - [x] JavaDoc Kommentare
-- [ ] Manuell erstellte Inhalte
+- [x] Manuell erstellte Inhalte
   - [x] Was ist eine Queue
   - [x] Code-snippets oder Grafiken
   - [x] Mögliche Einsatzgebiete einer Queue \[optional\]
   - [x] Was sind Generics \[optional\]
-  - [ ] Was ist code coverage bei Source Code Tests \[optional\]
+  - [x] Was ist code coverage bei Source Code Tests \[optional\]
 
 Filippo Orru, 2020
