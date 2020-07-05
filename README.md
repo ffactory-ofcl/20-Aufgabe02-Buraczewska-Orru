@@ -1,4 +1,4 @@
-# 20-Aufgabe02-Buraczewska-Orru
+# 20-Aufgabe02-Orru
 > Der Zweck dieses Projektes ist, den Umgang mit Maven, Maven Site, sowie Git, JavaDoc, JUnit und Research Driven Development zu lernen.
 
 ## Aufgaben
@@ -9,10 +9,9 @@
 - [x] Projekt importieren
 - [x] .gitignore anpassen
 - [x] Erste Aufgaben planen
-- [ ] pom.xml anpassen
-  - [ ] Information über Entwickler mit Bild
+- [x] pom.xml anpassen
+  - [x] Information über Entwickler mit Bild
     - [x] Filippo Orru
-    - [ ] Diana Buraczewska
   - [x] Adresse des Git-Repositories
 
 ### Implementierung
