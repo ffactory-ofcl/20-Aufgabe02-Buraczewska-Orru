@@ -30,10 +30,10 @@
 
 ### Testen
 - [ ] 100%ige Testabdeckung
-  - [ ] StringQueue
+  - [x] StringQueue
   - [x] Generic-Queue mit Strings
-  - [ ] Generic-Queue mit weiterer Klasse
-  - [ ] JavaDoc Beschreibung
+  - [x] Generic-Queue mit weiterer Klasse
+  - [x] JavaDoc Beschreibung
 
 ### Lab-Report
 Es müssen nicht alle Punkte vorkommen.
