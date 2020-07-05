@@ -37,12 +37,9 @@
 
 ### Lab-Report
 Es müssen nicht alle Punkte vorkommen.
-- [ ] Was beinhaltet Build Automatisierung?
-- [ ] Warum sollten Tests automatisiert werden?
-- [ ] Wie sieht eine Standard-Projektstruktur aus und warum ist diese wichtig?
-- [ ] Wozu dient technische Dokumentation?
-- [ ] Was sollte ein Software Entwicklungsprojekt mindestens beinhalten, dass entweder neue EntwicklerInnen starten können oder selbst nach mehreren Wochen / Monaten wieder einsteigen kann?
-- [ ] Welche Schritte muss ein/e Entwickler/In an einem durchschnittlichen Arbeitstag sinnvollerweise durchlaufen? Listen Sie stichwortartig diese Schritte auf und notieren Sie notwendige Befehle der jeweiligen Technologien auf
+- [x] Was beinhaltet Build Automatisierung?
+- [x] Warum sollten Tests automatisiert werden?
+- [x] Wie sieht eine Standard-Projektstruktur aus und warum ist diese wichtig?
 
 ### MavenSite
 - [x] JavaDoc Kommentare
