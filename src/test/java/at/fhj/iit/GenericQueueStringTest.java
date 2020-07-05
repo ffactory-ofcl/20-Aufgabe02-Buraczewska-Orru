@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 
 import java.util.NoSuchElementException;
 
-public class GenericQueueTest {
+public class GenericQueueStringTest {
     /**
      * Keep track of the current test-run. Intended for future use.
      */
