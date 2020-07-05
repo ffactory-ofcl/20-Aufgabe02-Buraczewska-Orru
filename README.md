@@ -43,3 +43,12 @@ Es müssen nicht alle Punkte vorkommen.
 - [ ] Wozu dient technische Dokumentation?
 - [ ] Was sollte ein Software Entwicklungsprojekt mindestens beinhalten, dass entweder neue EntwicklerInnen starten können oder selbst nach mehreren Wochen / Monaten wieder einsteigen kann?
 - [ ] Welche Schritte muss ein/e Entwickler/In an einem durchschnittlichen Arbeitstag sinnvollerweise durchlaufen? Listen Sie stichwortartig diese Schritte auf und notieren Sie notwendige Befehle der jeweiligen Technologien auf
+
+### MavenSite
+- [ ] JavaDoc Kommentare
+- [ ] Manuell erstellte Inhalte
+  - [ ] Was ist eine Queue
+  - [ ] Code-snippets oder Grafiken
+  - [ ] Mögliche Einsatzgebiete einer Queue \[optional\]
+  - [ ] Was sind Generics \[optional\]
+  - [ ] Was ist code coverage bei Source Code Tests \[optional\]
