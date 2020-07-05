@@ -27,7 +27,7 @@
 - [x] Sourcecode dokumentieren
 - [x] JavaDoc für String-Version anpassen
 - [x] JavaDoc für Generic-Version schreiben
-- [ ] Im JavaDoc genau erklären, wie getestet wird
+- [x] Im JavaDoc genau erklären, wie getestet wird
 
 ### Testen
 - [x] 100%ige Testabdeckung
