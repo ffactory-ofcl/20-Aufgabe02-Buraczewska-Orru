@@ -1,5 +1,7 @@
 package at.fhj.iit;
 
+import java.util.NoSuchElementException;
+
 public interface IQueue {
   /**
    * Adds the element obj to the queue.
